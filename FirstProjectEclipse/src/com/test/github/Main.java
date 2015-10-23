@@ -7,6 +7,8 @@ public class Main {
 		SalesData data = new SalesData();
 		data.display();
 		
+		System.out.println("Test One");
+		
 	}
 
 }
