@@ -13,8 +13,7 @@ public class Main {
 		displayGreeting();
 
 		System.out.println("Version 2.0");
-		System.out.println("fix release v2.0 with version 2.1");
-		
+
 	}
 
 	private static void displayGreeting() {
