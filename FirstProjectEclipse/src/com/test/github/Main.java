@@ -12,6 +12,8 @@ public class Main {
 
 		displayGreeting();
 
+		System.out.println("Version 2.0");
+
 	}
 
 	private static void displayGreeting() {
